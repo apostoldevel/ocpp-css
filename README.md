@@ -10,18 +10,20 @@ Overview
 Open Charge Point Protocol [OCPP](http://ocppforum.net) is a communication protocol between multiple charging stations ("charge points") and a single management software ("central system").
 
 
-CS
+Central System (CS)
 -
+
 You can connect your station to a demo central system.
 
----
 Connection addresses:
 - WebSocket: ws://ws.ocpp-css.com/ocpp
 - SOAP: http://soap.ocpp-css.com/Ocpp
----
+
+Case matters.
 
 To control the charging station, use the web shell at:
 - [http://cs.ocpp-css.com](http://cs.ocpp-css.com)
+
 
 Authorization:
 ~~~
@@ -34,9 +36,17 @@ RFID-card:
 idTag: b1db8d051145b7
 ~~~
 
-CSS
+API:
+http://cs.ocpp-css.ru/api/v1
+
+Check API:
+http://cs.ocpp-css.ru/api/v1/ping
+
+
+Central System Service (CSS)
 -
-[https://ocpp-css.ru](http://ocpp-css.ru)
+
+Automated system for processing data from charging stations.
 
 
 Authorization:
@@ -45,13 +55,17 @@ login: demo
 password: demo
 ~~~
 
-Donate
--
----
-~~~
-BTC: 1MvvFNE89NK1zQguy9RhXH3PGmSf7RcahB
-ETH: 0x417bed7f4b156d952503fb8f91644194b48dded2
-~~~
-Any help is priceless, thanks.
+API:
+https://ocpp-css.ru/api/v1
 
----
+
+Check API:
+https://ocpp-css.ru/api/v1/ping
+
+
+Contact
+-
+
+We invite enthusiasts to cooperate.
+
+email: ufocomp@gmail.com
