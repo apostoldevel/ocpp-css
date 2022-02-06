@@ -2,7 +2,7 @@
 
 Central System for charging stations for electric cars.
 
-Built on base [OCPP Framework](https://github.com/apostoldevel/apostol-cs) and [Апостол CRM](https://github.com/apostoldevel/apostol-crm).
+Built on base [OCPP Central System](https://github.com/apostoldevel/apostol-cs) and [Апостол CRM](https://github.com/apostoldevel/apostol-crm).
 
 
 Overview
@@ -25,7 +25,7 @@ To control the charging station, use the web shell at:
 - [http://cs.ocpp-css.com](http://cs.ocpp-css.com)
 
 
-Authorization:
+Authorize:
 ~~~
 username: demo
 password: demo
