@@ -27,20 +27,20 @@ To control the charging station, use the web shell at:
 
 Authorization:
 ~~~
-login: ocpp
-password: ocpp
+username: demo
+password: demo
 ~~~
 
 RFID-card:
 ~~~
-idTag: b1db8d051145b7
+idTag: demo
 ~~~
 
-API:
-http://cs.ocpp-css.ru/api/v1
+API (Swagger):
+http://cs.ocpp-css.com/docs
 
 Check API:
-http://cs.ocpp-css.ru/api/v1/ping
+http://cs.ocpp-css.com/api/v1/ping
 
 
 Central System Service (CSS)
@@ -51,12 +51,12 @@ Automated system for processing data from charging stations.
 
 Authorization:
 ~~~
-login: demo
+username: demo
 password: demo
 ~~~
 
-API:
-https://ocpp-css.ru/api/v1
+API (Swagger):
+https://ocpp-css.ru/docs
 
 
 Check API:
