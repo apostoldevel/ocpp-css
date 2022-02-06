@@ -25,7 +25,7 @@ To control the charging station, use the web shell at:
 - [http://cs.ocpp-css.com](http://cs.ocpp-css.com)
 
 
-Authorize:
+Authorization:
 ~~~
 username: demo
 password: demo
