@@ -1,8 +1,8 @@
-# OCPP Central System Service
+# OCPP Central System as Service
 
 Central System for charging stations for electric cars.
 
-Built on base [OCPP Central System](https://github.com/apostoldevel/apostol-cs) and [Апостол CRM](https://github.com/apostoldevel/apostol-crm).
+Built on base [OCPP Central System](https://github.com/apostoldevel/apostol-cs) and [Apostol CRM](https://github.com/apostoldevel/apostol-crm).
 
 
 Overview
@@ -22,7 +22,7 @@ Connection addresses:
 Case matters.
 
 To control the charging station, use the web shell at:
-- [http://cs.ocpp-css.com](http://cs.ocpp-css.com)
+- [https://cs.ocpp-css.com](https://cs.ocpp-css.com)
 
 
 Authorization:
@@ -37,13 +37,13 @@ idTag: demo
 ~~~
 
 API (Swagger):
-http://cs.ocpp-css.com/docs
+https://cs.ocpp-css.com/docs/
 
 Check API:
 http://cs.ocpp-css.com/api/v1/ping
 
 
-Central System Service (CSS)
+Central System as Service (CSS)
 -
 
 Automated system for processing data from charging stations.
@@ -56,11 +56,11 @@ password: demo
 ~~~
 
 API (Swagger):
-https://ocpp-css.ru/docs
+https://css.ocpp-css.com/docs/
 
 
 Check API:
-https://ocpp-css.ru/api/v1/ping
+https://css.ocpp-css.com/api/v1/ping
 
 
 Contact
